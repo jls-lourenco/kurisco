@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - collectable
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - BulletPlayer
+  - BulletEnemy
+  - Enemy
+  - Shield
+  - AreaDrop
+  - Collectale
+  - Bomb
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 998246479
+    locked: 0
+  - name: Scenario
+    uniqueID: 3731518327
+    locked: 0
+  - name: HUD
+    uniqueID: 4040347581
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<language>
+    
+    <interface name = "menu_screen">
+        <textos>
+            
+            <txt>Novo</txt>
+            <txt>Continuar</txt>
+            <txt>Opções</txt>
+            <txt>Créditos</txt>
+            <txt>Controles</txt>
+            <txt>Sair</txt>
+            
+        </textos>
+        
+    </interface>
+    
+    <interface name = "options_screen">
+        <textos>
+            
+            <txt>Opções</txt>
+            <txt>Idioma:</txt>
+            <txt>Português</txt>
+            <txt>Efeitos Sonoros:</txt>
+            <txt>Música:</txt>
+            <txt>Voltar</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "credits_screen">
+        <textos>
+            
+            <txt>Créditos</txt>
+            <txt>Desenvolvido por:</txt>
+            <txt>ProxyAppeal</txt>
+            <txt>Voltar</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "controls_screen">
+        <textos>
+            
+            <txt>Controles</txt>
+            <txt>Diagonal</txt>
+            <txt>Atirar</txt>
+            <txt>Jogar bomba</txt>
+            <txt>Pular</txt>
+            <txt>Andar</txt>
+            <txt>Trocar de tiro</txt>
+            <txt>Iniciar</txt>
+            <txt>Olhar para cima</txt>
+            <txt>Deitar no chão</txt>
+            <txt>Olhar para a diagonal parado</txt>
+            <txt>Olhar para a diagonal andando</txt>
+            <txt>Atirar no ar</txt>
+            <txt>Descer da plataforma</txt>
+            <txt>Voltar</txt>
+
+        </textos>
+        
+    </interface>
+    <interface name = "hud_screen">
+        <textos>
+            
+            <txt>Tiro 1</txt>
+            <txt>Tiro 2</txt>
+            <txt>Bomba</txt>
+            <txt>PV</txt>
+            <txt>Escudo</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "pause_screen">
+        <textos>
+            
+            <txt>Pausa</txt>
+            <txt>Continue</txt>
+            <txt>Menu</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "gameover_screen">
+        <textos>
+            
+            <txt>Fim de Jogo</txt>
+            <txt>Você perdeu!</txt>
+            <txt>Reiniciar</txt>
+            <txt>Menu</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "stageclear_screen">
+        <textos>
+            
+            <txt>Fase Concluída</txt>
+            <txt>Fase</txt>
+            <txt>PV</txt>
+            <txt>Tiro1</txt>
+            <txt>Tiro2</txt>
+            <txt>Bomba</txt>
+            <txt>Continuar</txt>
+            <txt>Menu</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "gameclear_screen">
+        <textos>
+            
+            <txt>Jogo concluído</txt>
+            <txt>Obrigado por jogar!</txt>
+            <txt>Menu</txt>
+            
+        </textos>
+        
+    </interface>
+    
+</language>

@@ -1,0 +1,1771 @@
+fileFormatVersion: 2
+guid: 58ccf1bc5c8efcd27acee2c4c6f3bece
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1649148736485151496
+    second: Idle_0
+  - first:
+      213: -1173743463629033305
+    second: Idle_1
+  - first:
+      213: -1685158601005991602
+    second: Idle_2
+  - first:
+      213: 3178976911728200604
+    second: Running_0
+  - first:
+      213: 6704608955604974173
+    second: Running_1
+  - first:
+      213: -7478541931934725053
+    second: Running_2
+  - first:
+      213: 4998620769887653513
+    second: Running_3
+  - first:
+      213: 3090220458689758172
+    second: RunningUp_0
+  - first:
+      213: -7247465448672588981
+    second: RunningUp_1
+  - first:
+      213: 997840996700088748
+    second: RunningUp_2
+  - first:
+      213: -4589656546414164586
+    second: RunningUp_3
+  - first:
+      213: -7990069339468096639
+    second: RunningDown_0
+  - first:
+      213: -6445232789585909266
+    second: RunningDown_1
+  - first:
+      213: 667292895065421037
+    second: RunningDown_2
+  - first:
+      213: 8457093059410699559
+    second: RunningDown_3
+  - first:
+      213: 7914872022251395539
+    second: ThrowingBomb_0
+  - first:
+      213: -1439513577292695897
+    second: ThrowingBomb_1
+  - first:
+      213: -2554384418998969393
+    second: ThrowingBomb_2
+  - first:
+      213: -2922307691899600425
+    second: Dying_0
+  - first:
+      213: -8070185410761162626
+    second: Dying_1
+  - first:
+      213: -3299853372580823897
+    second: Dying_2
+  - first:
+      213: 5351031428438353935
+    second: Jumping_0
+  - first:
+      213: -1850018946728265163
+    second: Jumping_1
+  - first:
+      213: 2319226659321874777
+    second: Jumping_2
+  - first:
+      213: -8920486510422273643
+    second: Jumping_3
+  - first:
+      213: -4293932292769144290
+    second: IdleShooting_0
+  - first:
+      213: 8569178094162236744
+    second: IdleShooting_1
+  - first:
+      213: 1455928610203467622
+    second: IdleUpShooting_0
+  - first:
+      213: 6799859396006248027
+    second: IdleUpShooting_1
+  - first:
+      213: 9011214343273232099
+    second: IdleDownShooting_0
+  - first:
+      213: -2244491347511409600
+    second: IdleDownShooting_1
+  - first:
+      213: -6865114162854717584
+    second: IdleUpAngledShooting_0
+  - first:
+      213: -6905300744722134535
+    second: IdleUpAngledShooting_1
+  - first:
+      213: 7743611165112444837
+    second: IdleDownAngledShooting_0
+  - first:
+      213: -2841802376974000132
+    second: IdleDownAngledShooting_1
+  - first:
+      213: 8695864809362953883
+    second: RunningShooting_0
+  - first:
+      213: -3414802882409273981
+    second: RunningShooting_1
+  - first:
+      213: -3934784284593477407
+    second: RunningShooting_2
+  - first:
+      213: 7503964646134364454
+    second: RunningShooting_3
+  - first:
+      213: -6239615221257239142
+    second: RunningUpShooting_0
+  - first:
+      213: 4629095975154634478
+    second: RunningUpShooting_1
+  - first:
+      213: 3956558991052178205
+    second: RunningDownShooting_0
+  - first:
+      213: -4819039513182759266
+    second: RunningDownShooting_1
+  - first:
+      213: 6324791508804697273
+    second: Bullet
+  - first:
+      213: -4635460691206803247
+    second: Explosion_0
+  - first:
+      213: -3658162988733537347
+    second: Explosion_2
+  - first:
+      213: -1924350052711054287
+    second: Explosion_1
+  - first:
+      213: 1564403599003333154
+    second: Explosion_3
+  - first:
+      213: 2081117267509343289
+    second: Idle_0
+  - first:
+      213: -5744587845380121212
+    second: Idle_1
+  - first:
+      213: -4037225039988747347
+    second: Idle_2
+  - first:
+      213: 1515933189677722966
+    second: Explosion_0
+  - first:
+      213: -2550741203057944334
+    second: Bullet
+  - first:
+      213: -2404663931419186858
+    second: Walk_2
+  - first:
+      213: -827785850224568372
+    second: Walk_3
+  - first:
+      213: 3440641092897125772
+    second: WalkUp_0
+  - first:
+      213: -1260563108097884109
+    second: WalkUp_1
+  - first:
+      213: -4775833052509025986
+    second: WalkUp_2
+  - first:
+      213: -8054521782959311008
+    second: WalkUp_3
+  - first:
+      213: 2742525913304338295
+    second: WalkDow_0
+  - first:
+      213: 7883106944370988038
+    second: WalkDow_1
+  - first:
+      213: -5073750495934636183
+    second: WalkDow_2
+  - first:
+      213: -8641975668689041635
+    second: WalkDow_3
+  - first:
+      213: -2428131661640248016
+    second: TrowBomb_0
+  - first:
+      213: 2964425770947513293
+    second: TrowBomb_1
+  - first:
+      213: 4394715371720051990
+    second: TrowBomb_2
+  - first:
+      213: 808707746247815383
+    second: Die_0
+  - first:
+      213: 5049540914154233382
+    second: Die_1
+  - first:
+      213: 3604833220664366534
+    second: Die_2
+  - first:
+      213: -4808807740815685275
+    second: Jump_0
+  - first:
+      213: 4279913553163408878
+    second: Jump_1
+  - first:
+      213: -7637065502643512653
+    second: Jump_2
+  - first:
+      213: 1279313529752176100
+    second: Jump_3
+  - first:
+      213: 7898131209139294636
+    second: IdleShot_0
+  - first:
+      213: 4414994715855583606
+    second: IdleShot_1
+  - first:
+      213: 3699921521477407943
+    second: IdleUpShot_0
+  - first:
+      213: -710653299273253739
+    second: IdleUpShot_1
+  - first:
+      213: -4933523574635874370
+    second: IdleDownShot_0
+  - first:
+      213: -802932443641692313
+    second: IdleDownShot_1
+  - first:
+      213: 2236281900560215367
+    second: IdleAngledUpShot__0
+  - first:
+      213: -3630928559017897711
+    second: IdleAngledUpShot_1
+  - first:
+      213: 782817834571772007
+    second: IdleAngledDownShot_0
+  - first:
+      213: 6020132809564893126
+    second: IdleAngledDownShot_1
+  - first:
+      213: 5715535249522282156
+    second: WalkShot_0
+  - first:
+      213: 433155977706985327
+    second: WalkShot_1
+  - first:
+      213: 7902362076579527115
+    second: WalkShot_2
+  - first:
+      213: 4136744753396067023
+    second: WalkShot_3
+  - first:
+      213: 4327426034270763386
+    second: WalkUpShot_0
+  - first:
+      213: 2596387213607142304
+    second: WalkUpShot_1
+  - first:
+      213: 1340932794378813495
+    second: WalkDownShot_0
+  - first:
+      213: -3043373257254290774
+    second: WalkDownShot_1
+  - first:
+      213: -1904993288210450551
+    second: Fall
+  - first:
+      213: -3468153354274236919
+    second: JumpShot_0
+  - first:
+      213: 9116016881359849474
+    second: JumpShot_1
+  - first:
+      213: -2696041687034438972
+    second: JumpUpShot_0
+  - first:
+      213: 1974322275696431219
+    second: JumpUpShot_1
+  - first:
+      213: 2680432986943800373
+    second: JumpDownShot_0
+  - first:
+      213: -4687682281689417301
+    second: JumpDownShot_1
+  - first:
+      213: -6472955019153362884
+    second: JumpAngledUpShot_0
+  - first:
+      213: 2912341352164737978
+    second: JumpAngledUpShot_1
+  - first:
+      213: -4171112604725939538
+    second: JumpAngledDownShot_0
+  - first:
+      213: 8754943720194465994
+    second: JumpAngledDownShot_1
+  - first:
+      213: -5817292367005942152
+    second: Bullet
+  - first:
+      213: -4334827434072667273
+    second: ExplosionBullet_0
+  - first:
+      213: 2081117267509343289
+    second: ExplosionBullet_1
+  - first:
+      213: -4635460691206803247
+    second: ExplosionBullet_2
+  - first:
+      213: -3658162988733537347
+    second: ExplosionBullet_3
+  - first:
+      213: 1649148736485151496
+    second: Idle_0
+  - first:
+      213: 1649148736485151496
+    second: Idle_0
+  - first:
+      213: -1173743463629033305
+    second: Idle_1
+  - first:
+      213: -1685158601005991602
+    second: Idle_2
+  - first:
+      213: 3178976911728200604
+    second: Explosion_0
+  - first:
+      213: 6704608955604974173
+    second: Bullet
+  - first:
+      213: -7478541931934725053
+    second: Walk_2
+  - first:
+      213: 4998620769887653513
+    second: Walk_3
+  - first:
+      213: 3090220458689758172
+    second: WalkUp_0
+  - first:
+      213: -7247465448672588981
+    second: WalkUp_1
+  - first:
+      213: 997840996700088748
+    second: WalkUp_2
+  - first:
+      213: -4589656546414164586
+    second: WalkUp_3
+  - first:
+      213: -7990069339468096639
+    second: WalkDown_0
+  - first:
+      213: -6445232789585909266
+    second: WalkDown_1
+  - first:
+      213: 667292895065421037
+    second: WalkDown_2
+  - first:
+      213: 8457093059410699559
+    second: WalkDown_3
+  - first:
+      213: 7914872022251395539
+    second: ThrowBomb_0
+  - first:
+      213: -1439513577292695897
+    second: ThrowBomb_1
+  - first:
+      213: -2554384418998969393
+    second: Die_0
+  - first:
+      213: -2922307691899600425
+    second: Die_1
+  - first:
+      213: -8070185410761162626
+    second: Die_2
+  - first:
+      213: -3299853372580823897
+    second: Jump_0
+  - first:
+      213: 5351031428438353935
+    second: Jump_1
+  - first:
+      213: -1850018946728265163
+    second: Jump_2
+  - first:
+      213: 2319226659321874777
+    second: Jump_3
+  - first:
+      213: -8920486510422273643
+    second: IdleShot_0
+  - first:
+      213: -4293932292769144290
+    second: IdleShot_1
+  - first:
+      213: 8569178094162236744
+    second: IdleUpShot_0
+  - first:
+      213: 1455928610203467622
+    second: IdleUpShot_1
+  - first:
+      213: 6799859396006248027
+    second: IdleDownShot_0
+  - first:
+      213: 9011214343273232099
+    second: IdleDownShot_1
+  - first:
+      213: -2244491347511409600
+    second: IdleAngledUpShot_0
+  - first:
+      213: -6865114162854717584
+    second: IdleAngledUpShot_1
+  - first:
+      213: -6905300744722134535
+    second: IdleAngledDownShot_0
+  - first:
+      213: 7743611165112444837
+    second: IdleAngledDownShot_1
+  - first:
+      213: -2841802376974000132
+    second: WalkShot_0
+  - first:
+      213: 8695864809362953883
+    second: WalkShot_1
+  - first:
+      213: -3414802882409273981
+    second: WalkUpShot_0
+  - first:
+      213: -3934784284593477407
+    second: WalkUpShot_1
+  - first:
+      213: 7503964646134364454
+    second: WalkDownShot_0
+  - first:
+      213: -6239615221257239142
+    second: WalkDownShot_1
+  - first:
+      213: 4629095975154634478
+    second: JumpShot_0
+  - first:
+      213: 3956558991052178205
+    second: JumpShot_1
+  - first:
+      213: -4819039513182759266
+    second: JumpUpShot_0
+  - first:
+      213: -1904993288210450551
+    second: JumpUpShot_1
+  - first:
+      213: -3468153354274236919
+    second: JumpDownShot_0
+  - first:
+      213: 9116016881359849474
+    second: JumpDownShot_1
+  - first:
+      213: -2696041687034438972
+    second: JumpAngledUpShot_0
+  - first:
+      213: 1974322275696431219
+    second: JumpAngledUpShot_1
+  - first:
+      213: 2680432986943800373
+    second: JumpAngledDownShot_0
+  - first:
+      213: -4687682281689417301
+    second: JumpAngledDownShot_1
+  - first:
+      213: 6324791508804697273
+    second: Explosion_3
+  - first:
+      213: -4635460691206803247
+    second: Explosion_2
+  - first:
+      213: -3658162988733537347
+    second: Explosion_1
+  - first:
+      213: 3178976911728200604
+    second: Explosion_0
+  - first:
+      213: 6704608955604974173
+    second: Bullet
+  - first:
+      213: 6324791508804697273
+    second: Explosion_3
+  - first:
+      213: 2081117267509343289
+    second: Walk_0
+  - first:
+      213: 2081117267509343289
+    second: Walk_0
+  - first:
+      213: -5744587845380121212
+    second: Walk_1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumpUpShot_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98776bc82ba1095e0800000000000000
+      internalID: -1904993288210450551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpDownShot_0
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90697eb36e4aedfc0800000000000000
+      internalID: -3468153354274236919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpDownShot_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080beb0e09928e70800000000000000
+      internalID: 9116016881359849474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAngledUpShot_0
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cadaa0be5cb59ad0800000000000000
+      internalID: -2696041687034438972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAngledUpShot_1
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370d60b36a3366b10800000000000000
+      internalID: 1974322275696431219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAngledDownShot_0
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534460f999fc23520800000000000000
+      internalID: 2680432986943800373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAngledDownShot_1
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9720c1dc102feb0800000000000000
+      internalID: -4687682281689417301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8035bfbc904f2e610800000000000000
+      internalID: 1649148736485151496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 824
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a074f0e98606bfe0800000000000000
+      internalID: -1173743463629033305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 824
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49f7d44e2d1d98e0800000000000000
+      internalID: -1685158601005991602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 168
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b4ab488aefd1c20800000000000000
+      internalID: 3178976911728200604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 216
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5abcb4925e8b0d50800000000000000
+      internalID: 6704608955604974173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 824
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cca256cb1e63890800000000000000
+      internalID: -7478541931934725053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 823
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e0b0c3b1bae5540800000000000000
+      internalID: 4998620769887653513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkUp_0
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 824
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd309dd622ba2ea20800000000000000
+      internalID: 3090220458689758172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkUp_1
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 824
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b04f9b294db6b90800000000000000
+      internalID: -7247465448672588981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkUp_2
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 824
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca961a6891b09dd00800000000000000
+      internalID: 997840996700088748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkUp_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69500f520b34e40c0800000000000000
+      internalID: -4589656546414164586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDown_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b934ad4429d1190800000000000000
+      internalID: -7990069339468096639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDown_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9280a1deeed86a0800000000000000
+      internalID: -6445232789585909266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDown_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de434834a53b24900800000000000000
+      internalID: 667292895065421037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDown_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725a8967451ad5570800000000000000
+      internalID: 8457093059410699559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowBomb_0
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9d8f06b2647dd60800000000000000
+      internalID: 7914872022251395539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowBomb_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6fd104702d50ce0800000000000000
+      internalID: -1439513577292695897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_0
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb16c597e00d8cd0800000000000000
+      internalID: -2554384418998969393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_1
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1cee323a0e177d0800000000000000
+      internalID: -2922307691899600425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die_2
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 624
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708a086021f00090800000000000000
+      internalID: -8070185410761162626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acf17c47d09432d0800000000000000
+      internalID: -3299853372580823897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e402bbbea24a40800000000000000
+      internalID: 5351031428438353935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af48cd1996356e0800000000000000
+      internalID: -1850018946728265163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9590f7edb5c8f2020800000000000000
+      internalID: 2319226659321874777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleShot_0
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591dd9218c0143480800000000000000
+      internalID: -8920486510422273643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleShot_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12aae77453e864c0800000000000000
+      internalID: -4293932292769144290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleUpShot_0
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845599f3316dbe670800000000000000
+      internalID: 8569178094162236744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleUpShot_1
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f718d6b5f743410800000000000000
+      internalID: 1455928610203467622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDownShot_0
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5efd8de714fd5e50800000000000000
+      internalID: 6799859396006248027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleDownShot_1
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 424
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6b4b5a3b34e0d70800000000000000
+      internalID: 9011214343273232099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleAngledUpShot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0440522e207f9d0e0800000000000000
+      internalID: -2244491347511409600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleAngledUpShot_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0779a84ba073ab0a0800000000000000
+      internalID: -6865114162854717584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleAngledDownShot_0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c89bfe817b20a0800000000000000
+      internalID: -6905300744722134535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleAngledDownShot_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a647c355d67b60800000000000000
+      internalID: 7743611165112444837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkShot_0
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9a9e6bc3ef88d0800000000000000
+      internalID: -2841802376974000132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkShot_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9616e0b8faeda870800000000000000
+      internalID: 8695864809362953883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkUpShot_0
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385e300fede2c90d0800000000000000
+      internalID: -3414802882409273981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkUpShot_1
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e824016a86d469c0800000000000000
+      internalID: -3934784284593477407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDownShot_0
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629bde38610732860800000000000000
+      internalID: 7503964646134364454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkDownShot_1
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 224
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9587d1e30f6869a0800000000000000
+      internalID: -6239615221257239142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpShot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee484e634add3040800000000000000
+      internalID: 4629095975154634478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpShot_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d130b8a807588e630800000000000000
+      internalID: 3956558991052178205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpUpShot_0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 24
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e969b2a58155f1db0800000000000000
+      internalID: -4819039513182759266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 24
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf5b8fd5c26c750800000000000000
+      internalID: 6324791508804697273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f452af098bafb0800000000000000
+      internalID: -4635460691206803247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 120
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db36e0eb4289b3dc0800000000000000
+      internalID: -3658162988733537347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_0
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 824
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93473d9e02d91ec10800000000000000
+      internalID: 2081117267509343289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 824
+        width: 200
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d571f6acf1740b0800000000000000
+      internalID: -5744587845380121212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

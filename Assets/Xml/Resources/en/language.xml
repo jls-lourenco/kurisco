@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<language>
+    
+    <interface name = "menu_screen">
+        <textos>
+            
+            <txt>New</txt>
+            <txt>Continue</txt>
+            <txt>Options</txt>
+            <txt>Credits</txt>
+            <txt>Controls</txt>
+            <txt>Quit</txt>
+            
+        </textos>
+        
+    </interface>
+    
+    <interface name = "options_screen">
+        <textos>
+            
+            <txt>Options</txt>
+            <txt>Idiome:</txt>
+            <txt>English</txt>
+            <txt>FX:</txt>
+            <txt>Music:</txt>
+            <txt>Back</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "credits_screen">
+        <textos>
+            
+            <txt>Credits</txt>
+            <txt>Developed by:</txt>
+            <txt>ProxyAppeal</txt>
+            <txt>Back</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "controls_screen">
+        <textos>
+        
+            <txt>Controls</txt>
+            <txt>Diagonal</txt>
+            <txt>Shoot</txt>
+            <txt>Throw bomb</txt>
+            <txt>Jump</txt>
+            <txt>Walk</txt>
+            <txt>Change shot </txt>
+            <txt>Start</txt>
+            <txt>Look up</txt>
+            <txt>Lie on the floor</txt>
+            <txt>Look at the diagonal stopped</txt>
+            <txt>Look at the diagonal walking</txt>
+            <txt>Shoot in the air</txt>
+            <txt>Get off the platform</txt>
+            <txt>Back</txt>
+
+        </textos>
+        
+    </interface>
+    <interface name = "hud_screen">
+        <textos>
+            
+            <txt>Shot 1</txt>
+            <txt>Shot 2</txt>
+            <txt>Bomb</txt>
+            <txt>HP</txt>
+            <txt>Shield</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "pause_screen">
+        <textos>
+            
+            <txt>Pause</txt>
+            <txt>Resume</txt>
+            <txt>Menu</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "gameover_screen">
+        <textos>
+            
+            <txt>Game Over</txt>
+            <txt>You Loose!</txt>
+            <txt>Restart</txt>
+            <txt>Menu</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "stageclear_screen">
+        <textos>
+            
+            <txt>Stage Clear</txt>
+            <txt>Stage</txt>
+            <txt>HP</txt>
+            <txt>Shot1</txt>
+            <txt>Shot2</txt>
+            <txt>Bomb</txt>
+            <txt>Continue</txt>
+            <txt>Menu</txt>
+            
+        </textos>
+        
+    </interface>
+    <interface name = "gameclear_screen">
+        <textos>
+            
+            <txt>Game Clear</txt>
+            <txt>Thank you for Play!</txt>
+            <txt>Menu</txt>
+            
+        </textos>
+        
+    </interface>
+    
+</language>

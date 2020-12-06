@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: d3ebe372d86d44e98a27f269a50a12d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6679298930020158104
+    second: Visor
+  - first:
+      213: -293708191034046898
+    second: Up
+  - first:
+      213: 739794274435048250
+    second: Bomb
+  - first:
+      213: 766807696107945831
+    second: Life_0
+  - first:
+      213: 4527101468716768152
+    second: Hud1
+  - first:
+      213: 2265159803035756565
+    second: Shot
+  - first:
+      213: 8456910655962090872
+    second: Hud1
+  - first:
+      213: -2924879190595290521
+    second: Up
+  - first:
+      213: 5369859088894031277
+    second: Bomb
+  - first:
+      213: -6870236395802067732
+    second: Life_0
+  - first:
+      213: -8211938671067871307
+    second: Hud1
+  - first:
+      213: -1069312152517850700
+    second: Bullets
+  - first:
+      213: 6679298930020158104
+    second: Hud1
+  - first:
+      213: -2924879190595290521
+    second: Up
+  - first:
+      213: 5369859088894031277
+    second: Bomb
+  - first:
+      213: -6870236395802067732
+    second: Bullet_0
+  - first:
+      213: -8211938671067871307
+    second: Bullet_1
+  - first:
+      213: 2265159803035756565
+    second: Life_0
+  - first:
+      213: 6679298930020158104
+    second: Hud1
+  - first:
+      213: -293708191034046898
+    second: Up
+  - first:
+      213: 739794274435048250
+    second: Bomb
+  - first:
+      213: 766807696107945831
+    second: Bullet_0
+  - first:
+      213: 4527101468716768152
+    second: Bullet_1
+  - first:
+      213: -1069312152517850700
+    second: Life_0
+  - first:
+      213: 6679298930020158104
+    second: Hud1
+  - first:
+      213: 6679298930020158104
+    second: Hud1
+  - first:
+      213: 6679298930020158104
+    second: Hud1
+  - first:
+      213: -4780925973919742499
+    second: Hud0_6
+  - first:
+      213: 6679298930020158104
+    second: Hud1
+  - first:
+      213: 6679298930020158104
+    second: Hud1
+  - first:
+      213: 6679298930020158104
+    second: Hud1
+  - first:
+      213: -2924879190595290521
+    second: Life_1
+  - first:
+      213: 6679298930020158104
+    second: Up
+  - first:
+      213: -293708191034046898
+    second: Hud1
+  - first:
+      213: 6679298930020158104
+    second: Up
+  - first:
+      213: -8918794582426231415
+    second: Shield_Bar
+  - first:
+      213: -293708191034046898
+    second: Shield
+  - first:
+      213: -738748910151437084
+    second: Shield
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Up
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 14
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a8f780df2a1bc50800000000000000
+      internalID: 6679298930020158104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life_1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 14
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ab2a17fddb867d0800000000000000
+      internalID: -2924879190595290521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 145
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57e6ff362958a40800000000000000
+      internalID: 5369859088894031277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_0
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 108
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecf149e56408a0a0800000000000000
+      internalID: -6870236395802067732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 78
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c4b19945590e80800000000000000
+      internalID: -8211938671067871307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 43
+        width: 97
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518a07be6d67f6f10800000000000000
+      internalID: 2265159803035756565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 195
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e460bc5d4f98cebf0800000000000000
+      internalID: -293708191034046898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield_Bar
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d5ec1c4931a3480800000000000000
+      internalID: -8918794582426231415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hud
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 61
+        width: 304
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e47730c7cf6fb5f0800000000000000
+      internalID: -738748910151437084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
